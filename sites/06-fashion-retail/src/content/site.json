@@ -20,12 +20,12 @@
     {
       "id": "products",
       "items": [
-        { "title": "[TODO]", "price": "[TODO]", "image": { "alt": "Camiseta preta dobrada", "unsplashQuery": "black t-shirt product" }, "hoverImage": { "alt": "Camiseta preta vestida", "unsplashQuery": "black t-shirt model" } },
-        { "title": "[TODO]", "price": "[TODO]", "image": { "alt": "Moletom cinza", "unsplashQuery": "grey hoodie product" }, "hoverImage": { "alt": "Moletom cinza vestido", "unsplashQuery": "hoodie model" } },
-        { "title": "[TODO]", "price": "[TODO]", "image": { "alt": "Boné preto", "unsplashQuery": "black cap product" }, "hoverImage": { "alt": "Boné usado por modelo", "unsplashQuery": "cap model street" } },
-        { "title": "[TODO]", "price": "[TODO]", "image": { "alt": "Bolsa de couro", "unsplashQuery": "leather bag product" }, "hoverImage": { "alt": "Bolsa no ombro de modelo", "unsplashQuery": "woman carrying bag" } },
-        { "title": "[TODO]", "price": "[TODO]", "image": { "alt": "Calça jeans", "unsplashQuery": "jeans product" }, "hoverImage": { "alt": "Calça jeans vestida", "unsplashQuery": "jeans model" } },
-        { "title": "[TODO]", "price": "[TODO]", "image": { "alt": "Óculos de sol", "unsplashQuery": "sunglasses product" }, "hoverImage": { "alt": "Modelo usando óculos de sol", "unsplashQuery": "sunglasses model" } }
+        { "title": "Camiseta Básica Preta", "price": "R$ 89,90", "image": { "alt": "Camiseta preta dobrada", "unsplashQuery": "black t-shirt product" }, "hoverImage": { "alt": "Camiseta preta vestida", "unsplashQuery": "black t-shirt model" } },
+        { "title": "Moletom Cinza Mescla", "price": "R$ 219,90", "image": { "alt": "Moletom cinza", "unsplashQuery": "grey hoodie product" }, "hoverImage": { "alt": "Moletom cinza vestido", "unsplashQuery": "hoodie model" } },
+        { "title": "Boné Aba Curva Preto", "price": "R$ 99,90", "image": { "alt": "Boné preto", "unsplashQuery": "black cap product" }, "hoverImage": { "alt": "Boné usado por modelo", "unsplashQuery": "cap model street" } },
+        { "title": "Bolsa de Couro Caramelo", "price": "R$ 349,90", "image": { "alt": "Bolsa de couro", "unsplashQuery": "leather bag product" }, "hoverImage": { "alt": "Bolsa no ombro de modelo", "unsplashQuery": "woman carrying bag" } },
+        { "title": "Calça Jeans Reta", "price": "R$ 229,90", "image": { "alt": "Calça jeans", "unsplashQuery": "jeans product" }, "hoverImage": { "alt": "Calça jeans vestida", "unsplashQuery": "jeans model" } },
+        { "title": "Óculos de Sol Redondo", "price": "R$ 159,90", "image": { "alt": "Óculos de sol", "unsplashQuery": "sunglasses product" }, "hoverImage": { "alt": "Modelo usando óculos de sol", "unsplashQuery": "sunglasses model" } }
       ]
     },
     {
