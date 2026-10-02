@@ -1,0 +1,39 @@
+{
+  "businessName": "Ateliê Garoa",
+  "reference": "R2",
+  "seo": {
+    "title": "Ateliê Garoa",
+    "description": "Roupas e acessórios do Ateliê Garoa. Compre online."
+  },
+  "sections": [
+    {
+      "id": "header",
+      "logoText": "GAROA",
+      "nav": ["LOJA", "FOTOS", "NOVIDADES"],
+      "account": "Minha conta",
+      "cart": { "label": "Sacola", "count": 0 }
+    },
+    {
+      "id": "visual-band",
+      "image": { "alt": "Modelo vestindo peças da coleção", "unsplashQuery": "fashion model streetwear" }
+    },
+    {
+      "id": "products",
+      "items": [
+        { "title": "[TODO]", "price": "[TODO]", "image": { "alt": "Camiseta preta dobrada", "unsplashQuery": "black t-shirt product" }, "hoverImage": { "alt": "Camiseta preta vestida", "unsplashQuery": "black t-shirt model" } },
+        { "title": "[TODO]", "price": "[TODO]", "image": { "alt": "Moletom cinza", "unsplashQuery": "grey hoodie product" }, "hoverImage": { "alt": "Moletom cinza vestido", "unsplashQuery": "hoodie model" } },
+        { "title": "[TODO]", "price": "[TODO]", "image": { "alt": "Boné preto", "unsplashQuery": "black cap product" }, "hoverImage": { "alt": "Boné usado por modelo", "unsplashQuery": "cap model street" } },
+        { "title": "[TODO]", "price": "[TODO]", "image": { "alt": "Bolsa de couro", "unsplashQuery": "leather bag product" }, "hoverImage": { "alt": "Bolsa no ombro de modelo", "unsplashQuery": "woman carrying bag" } },
+        { "title": "[TODO]", "price": "[TODO]", "image": { "alt": "Calça jeans", "unsplashQuery": "jeans product" }, "hoverImage": { "alt": "Calça jeans vestida", "unsplashQuery": "jeans model" } },
+        { "title": "[TODO]", "price": "[TODO]", "image": { "alt": "Óculos de sol", "unsplashQuery": "sunglasses product" }, "hoverImage": { "alt": "Modelo usando óculos de sol", "unsplashQuery": "sunglasses model" } }
+      ]
+    },
+    {
+      "id": "footer",
+      "nav": ["NOVIDADES", "SOBRE", "POLÍTICAS", "CONTATO", "Termos", "FAQ"],
+      "newsletter": { "placeholder": "Seu e-mail", "submit": "Inscrever" },
+      "payments": ["Pix", "Visa", "Mastercard", "Elo", "Amex"],
+      "reviews": "Avaliações"
+    }
+  ]
+}
